@@ -22,33 +22,26 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Umme Salma</h1>
-<h3 align="center">A passionate frontend developer from BanglaDesh</h3>
+### Hi there 👋, my name is Umme Salma
+#### I am front end developer
+I am Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power. Happiness is my first priority.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ummesalma303&label=Profile%20views&color=0e75b6&style=flat" alt="ummesalma303" /> </p>
+Skills: JavaScript / Daisy UI / Tailwind CSS/ HTML / CSS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ummesalma303" alt="ummesalma303" /></a> </p>
+- 🌱 I’m currently learning JavaScript 
+- 📫 How to reach me: ummmesalma333999@gmail.com 
+- ⚡ Fun fact: I think i am funny 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ummesalma303)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Albin Islam Arha )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Umme Salma)  
 
-- 👨‍💻 All of my projects are available at [ummesalma303](ummesalma303)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **ummesalma333999@email.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=ummesalma303)](https://github.com/ryo-ma/github-profile-trophy)
 
-- ⚡ Fun fact **I think i am funny**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummesalma303)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/albin islam arha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="albin islam arha" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ummesalma303&show_icons=true&count_private=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ummesalma303)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ummesalma303&show_icons=true&locale=en&layout=compact" alt="ummesalma303" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ummesalma303&show_icons=true&locale=en" alt="ummesalma303" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ummesalma303&" alt="ummesalma303" /></p>
