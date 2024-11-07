@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 #### I am front end developer
 I am Love to learn new skills. Now learning react.
 
-Skills: JavaScript / Daisy UI / Tailwind CSS/ HTML / CSS
+Skills: JavaScript / Daisy UI / Tailwind CSS/ HTML / CSS </br>
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ummesalma303&theme=onedark)
 
 # 💫 About Me:
 🔭 I’m currently working on react js project<br>👯 I’m looking to collaborate on github<br>🌱  I’m currently learning learning react<br>💬 Talk to me about JavaScript, react etc.<br>📫 Reach me at ummesalma333999@gmail.com
@@ -48,3 +50,6 @@ Skills: JavaScript / Daisy UI / Tailwind CSS/ HTML / CSS
 [![](https://visitcount.itsvg.in/api?id=ummesalma303&icon=10&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
