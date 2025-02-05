@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I’m a Frontend Web Developer from Bangladesh,I’m passionate about building intuitive and user-friendly interfaces using modern web technologies like React, Tailwind CSS, ShadCN UI. I love solving complex problems and enhancing user experiences through thoughtful design and performance optimization.<br><br>
+<p align="left">I’m a Frontend Developer from Bangladesh, passionate about building intuitive and user-friendly interfaces using modern web technologies like React, Tailwind CSS, and ShadCN UI. I love solving problems and enhancing user experiences through design and performance optimization.<br><br>
   
   - 🔭 I am exploring Next.js<br>
   - 👯 I’m looking to collaborate on github<br>
