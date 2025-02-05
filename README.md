@@ -18,10 +18,10 @@
 </div>
 
 ###
+</br>
+<h1 align="left">💫 About Me:</h2>
 
-<h2 align="left">💫 About Me:</h2>
 
-###
 
 <img align="right" height="260" src="https://cdn.dribbble.com/userupload/9885161/file/original-ea59665ee88d1c9fc1dddca426590a9d.gif"  />
 
