@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="440" width="100%" src="https://i.ibb.co.com/whTTBB0j/umme-salma-banner.jpg"  />
+  <img src="https://i.ibb.co.com/whTTBB0j/umme-salma-banner.jpg"  />
 </div>
 
 ###
