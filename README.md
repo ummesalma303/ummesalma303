@@ -1,5 +1,6 @@
 <div align="center">
   <img height="440" width="100%" src="https://i.ibb.co.com/whTTBB0j/umme-salma-banner.jpg"  />
+<!--   <img height="260" src="https://cdn.dribbble.com/userupload/9885161/file/original-ea59665ee88d1c9fc1dddca426590a9d.gif"  /> -->
 </div>
 
 ###
@@ -8,7 +9,7 @@
 
 ###
 
-<p align="center">A passionate Frontend Developer from 🇧🇩 </br>contact Me: +88 0123456789</p>
+<p align="center">A passionate Frontend Developer from 🇧🇩 </br>contact Me: +88 01732388710</p>
 
 
 ###
@@ -67,6 +68,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+   <img width="10" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
