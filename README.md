@@ -186,12 +186,19 @@ Skills: JavaScript / Daisy UI / Tailwind CSS/ HTML / CSS </br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=ummesalma303&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true) -->
+![](https://komarev.com/ghpvc/?ummesalma303&color=green)
+<!--![](https://github-contributor-stats.vercel.app/api?username=ummesalma303&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true) --> 
 ![](https://github-contributor-stats.vercel.app/api?username=ummesalma303&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+<!--
 [![](https://visitcount.itsvg.in/api?id=ummesalma303&icon=10&color=13)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=ummesalma303&icon=10&color=13)](https://visitcount.itsvg.in)
+[![Visits](https://visitcount.itsvg.in/api?id=ummesalma303&icon=5&color=12)](https://visitcount.itsvg.in) -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=ummesalma303&label=Profile%20views&color=blueviolet&style=flat)
+
+![](https://komarev.com/ghpvc/?ummesalma303&base=1000)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
