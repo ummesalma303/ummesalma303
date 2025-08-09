@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">A passionate Frontend Developer from 🇧🇩 </br>contact Me: +88 01732388710</p>
+<p align="center">A passionate Frontend Developer from 🇧🇩 </p>
 
 
 ###
