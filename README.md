@@ -15,11 +15,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ummesalma303&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ummesalma303&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ummesalma303&theme=dark)](https://git.io/streak-stats)
-  
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ummesalma303&theme=dark)](https://git.io/streak-stats) 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ummesalma303&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  -->
+
+![ummesalma303's Stats](https://github-readme-stats.vercel.app/api?username=ummesalma303&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![ummesalma303's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ummesalma303&theme=nightowl&hide_border=true)
+![ummesalma303's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ummesalma303&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+  
+
 </div>
 
 ###
@@ -191,7 +197,7 @@ Skills: JavaScript / Daisy UI / Tailwind CSS/ HTML / CSS </br>
 ### 🔝 Top Contributed Repo
 ![](https://komarev.com/ghpvc/?ummesalma303&color=green)
 <!--![](https://github-contributor-stats.vercel.app/api?username=ummesalma303&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true) --> 
-![](https://github-contributor-stats.vercel.app/api?username=ummesalma303&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ummesalma303&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
 <!--
